@@ -1,15 +1,9 @@
 # Computer Graphics Final Projct (VTK.js) Report
 
-## Students:
-
-- Anas Mohamed Fawzy - Sec.(1) - B.N.(16)
-- Omar Ahmed Mansour - Sec.(2) - B.N.(1)
-- Muhammad Ahmad AbdAl-Alim AbdAl-Aziz - Sec.(2) - B.N.(10)
-- Mohamed Mansour El-Sabbagh - Sec.(2) - B.N.(20)
 
 ## Introduction:
 
-In this project we used VTK.js & HTML with React to build a web page that displays two views independently:
+Using VTK.js & HTML with React to build a web page that displays two views independently:
 
 - Surface Rendering:
 
@@ -64,7 +58,3 @@ function headchest (){
       // and code continues............................
 ```
 
-## Problem Faced:
-
-It was difficult to understand example codes and vtk.js library system in order to be able to edit and customize the code.
-We overcome this problem by searching and applying try and error technique.
