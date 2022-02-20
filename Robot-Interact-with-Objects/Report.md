@@ -1,8 +1,9 @@
 # Animation-Robot-with-Camera
 
-**Summary**
+**Features**
 
 > adding functions to rotate,normalize,crossproduct,lookup,lookdown,lookleft,lookright,moveforward,movebackward.
+
 > loading objects & make texture to the floor.
 
 
